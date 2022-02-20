@@ -1,9 +1,9 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:spnotes1/screens/dashboard_screen.dart';
-import 'package:spnotes1/student/student_homepage.dart';
-import 'package:spnotes1/authenticate/google_signin.dart';
+import 'package:projectapp/screens/dashboard_screen.dart';
+import 'package:projectapp/student/student_homepage.dart';
+import 'package:projectapp/authenticate/google_signin.dart';
 // import 'home.dart';
 
  final CollectionReference mainCollectionStudent = FirebaseFirestore.instance.collection('student');
