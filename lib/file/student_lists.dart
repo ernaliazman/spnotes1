@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:spnotes1/resources/color.dart';
-import 'package:spnotes1/screens/dashboard_screen.dart';
+import 'package:projectapp/resources/color.dart';
+import 'package:projectapp/screens/dashboard_screen.dart';
 
 class StudentList extends StatefulWidget {
   @override
