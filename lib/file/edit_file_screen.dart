@@ -1,6 +1,6 @@
 
 import 'package:flutter/cupertino.dart';
-import 'package:spnotes1/models/event_info.dart';
+import 'package:projectapp/models/event_info.dart';
 
 class EditFileScreen extends StatefulWidget {
   final EventInfo event;
