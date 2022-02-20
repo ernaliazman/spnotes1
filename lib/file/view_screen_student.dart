@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:spnotes1/models/file.dart';
-import 'package:spnotes1/utils/storage.dart';
+import 'package:projectapp/models/file.dart';
+import 'package:projectapp/utils/storage.dart';
 
 class ViewScreenStudent extends StatefulWidget {
   @override
