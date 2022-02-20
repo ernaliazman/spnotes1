@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:local_auth/local_auth.dart';
-import 'package:projectapp/login/login.dart';
+import 'package:spnotes1/login/login.dart';
 
 
 class HomeScreen extends StatelessWidget {
