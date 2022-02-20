@@ -1,6 +1,6 @@
-package com.example.spnotes1
+package com.example.projectapp
 
-import io.flutter.embedding.android.FlutterActivity
+import io.flutter.embedding.android.FlutterFragmentActivity
 
-class MainActivity: FlutterActivity() {
-}
+
+class MainActivity : FlutterFragmentActivity()
