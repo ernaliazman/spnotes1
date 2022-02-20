@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:spnotes1/models/file.dart';
-import 'package:spnotes1/screens/dashboard_screen.dart';
-import 'package:spnotes1/file/file_screen.dart';
-import 'package:spnotes1/utils/storage.dart';
+import 'package:projectapp/models/file.dart';
+import 'package:projectapp/screens/dashboard_screen.dart';
+import 'package:projectapp/file/file_screen.dart';
+import 'package:projectapp/utils/storage.dart';
 
 
 
