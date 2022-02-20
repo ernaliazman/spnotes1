@@ -1,5 +1,5 @@
 # spnotes
 
-A new Flutter project. This project was contributed by Hanisah Binti Nazarudddin and Nur Erna Alia Binti Azman for mobile app project. 
+A new Flutter project. This project was contributed by Hanisah Binti Nazarudddin(pijjacheese) and Nur Erna Alia Binti Azman(ernalizaman) for mobile app project. 
 
 
