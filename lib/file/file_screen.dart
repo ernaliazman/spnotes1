@@ -2,10 +2,10 @@ import 'package:file_picker/file_picker.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 import 'package:path/path.dart';
-import 'package:projectapp/file/view_screen_student.dart';
-import 'package:projectapp/file/view_screen_supervisors.dart';
+import 'package:spnotes1/file/view_screen_student.dart';
+import 'package:spnotes1/file/view_screen_supervisors.dart';
 import 'dart:io';
-import 'package:projectapp/utils/storage.dart';
+import 'package:spnotes1/utils/storage.dart';
 
 class FileScreen extends StatefulWidget {
   @override
